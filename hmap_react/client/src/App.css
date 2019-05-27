@@ -1,0 +1,42 @@
+.demo-table {
+	background: #afd698;
+	width: 100%;
+	border-spacing: initial;
+	margin: 2px 0px;
+	word-break: break-word;
+	table-layout: auto;
+	line-height: 1.8em;
+	color: #333;
+	border-radius: 4px;
+	padding: 20px 40px;
+}
+.demo_table {
+	background: #c0bfc9;
+	width: 100%;
+	border-spacing: initial;
+	margin: 2px 0px;
+	word-break: break-word;
+	table-layout: auto;
+	line-height: 1.8em;
+	color: #333;
+	border-radius: 4px;
+	padding: 20px 40px;
+}
+
+.demo-table td {
+	padding: 15px 0px;
+}
+.demoInputBox {
+	padding: 5px 30px;
+	border: #a9a9a9 1px solid;
+	border-radius: 8px;
+}
+.btnRegister {
+	padding: 10px 30px;
+	background-color: #3367b2;
+	border: 0;
+	color: #FFF;
+	cursor: pointer;
+	border-radius: 4px;
+	margin-left: 10px;
+}	
